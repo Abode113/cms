@@ -1,0 +1,15 @@
+User-agent: *
+
+
+Disallow: /public/admin/home
+Disallow: /public/admin/home/menuitem
+Disallow: /public/admin/home/item
+Disallow: /public/admin/home/category
+Disallow: /public/admin/home/Language
+Disallow: /public/admin/home/Attribute
+Disallow: /public/admin/home/Role
+Disallow: /public/admin/home/User
+Disallow: /public/category/store
+Disallow: /public/menuitem/store
+Disallow: /public/CatCustomAttr/store
+
